@@ -1,0 +1,6 @@
+import com.alibaba.druid.pool.ha.HighAvailableDataSource;
+public class FunctionUse538 {
+public void funcUse() {
+HighAvailableDataSource highavailabledatasource = new HighAvailableDataSource();
+}
+}

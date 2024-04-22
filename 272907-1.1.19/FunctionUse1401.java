@@ -1,0 +1,6 @@
+import com.alibaba.druid.sql.dialect.mysql.visitor.MySqlOutputVisitor;
+public class FunctionUse1401 {
+public void funcUse() {
+MySqlOutputVisitor mysqloutputvisitor = new MySqlOutputVisitor();
+}
+}

@@ -1,0 +1,6 @@
+import com.alibaba.druid.sql.dialect.mysql.ast.MySqlUnique;
+public class FunctionUse1413 {
+public void funcUse() {
+MySqlUnique mysqlunique = new MySqlUnique();
+}
+}
